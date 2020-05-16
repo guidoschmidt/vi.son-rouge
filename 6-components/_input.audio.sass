@@ -22,3 +22,26 @@
     padding-right: 20px
     padding-bottom: 20px
     margin-left: 42px
+
+.audio-permission-harvester
+  position: absolute
+  background: var(--color-ultradark)
+  left: 0
+  top: 0
+  max-width: 80ch
+  color: white
+  line-height: 1.4
+  padding: 40px
+  z-index: 999
+  display: flex
+  flex-direction: row
+  text-align: left
+  +until($tablets)
+    font-size: 0.8rem
+  .icon
+    cursor: pointer
+  .content
+    max-width: 60ch
+    padding-right: 20px
+    padding-bottom: 20px
+    margin-left: 42px
