@@ -1,5 +1,5 @@
 {
-  "name": "rouge",
+  "name": "@vi-son/rouge",
   "version": "1.0.0",
   "description": "Typically use this as a submodule and import needed `*.sass` files into your root stylesheet or into your components.",
   "scripts": {
