@@ -1,0 +1,21 @@
+{
+  "name": "rouge",
+  "version": "1.0.0",
+  "description": "Typically use this as a submodule and import needed `*.sass` files into your root stylesheet or into your components.",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vi-son/rouge.git"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
+  "keywords": ["stylesheet", "library", "art", "creative code"],
+  "author": "Guido Schmidt <git@guidoschmidt.cc>",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/vi-son/rouge/issues"
+  },
+  "homepage": "https://github.com/vi-son/rouge#readme"
+}
