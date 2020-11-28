@@ -1,17 +1,18 @@
 {
-  "name": "@vi-son/rouge",
+  "name": "@vi.son/rouge",
   "version": "1.0.2",
   "description": "Typically use this as a submodule and import needed `*.sass` files into your root stylesheet or into your components.",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vi-son/rouge.git"
   },
-  "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
-  },
-  "keywords": ["stylesheet", "library", "art", "creative code"],
+  "keywords": [
+    "stylesheet",
+    "library",
+    "art",
+    "creative code"
+  ],
   "author": "Guido Schmidt <git@guidoschmidt.cc>",
   "license": "CC-BY-4.0",
   "bugs": {
